@@ -1,2 +1,2 @@
-# binar-accademy
+# binar-academy
 belajar binar
